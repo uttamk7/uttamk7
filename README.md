@@ -19,7 +19,7 @@ Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Risk Manag
 <br>
 Soft Skills: Communication, Teamwork, Continuous Learning
 <br>
-
+<br>
 
 
 Education
@@ -27,6 +27,8 @@ Education
 Data Science Training | Analytixlabs, Bengaluru
 <br>
 VSM's BBA AND BCA COLLEGE NIPANI | BCA in Computer Science | 2023
+<br>
+<br>
 
 Let's Connect
 <br>
@@ -38,7 +40,7 @@ GitHub: github.com/uttamk7
 <br>
 Email: uttamskhot108@gmail.com
 <br>
-
+<br>
 
 Fun Fact
 <br>
