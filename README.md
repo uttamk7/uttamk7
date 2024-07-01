@@ -8,20 +8,19 @@ I'm a Data Scientist Trainee at Analytixlabs, Bengaluru, with a strong foundatio
 <br>
 
 
-Technical Skills
 
+
+
+Technical Skills
+<br>
 Programming Languages: Python (Numpy, Pandas, Matplotlib, Seaborn, SciPy), SQL
 <br>
-
 Data Visualization: Power BI (DAX, Visualization)
 <br>
-
 Tools & Technologies: Git, Github, Atlassian Suite (JIRA, Confluence), MS Office (Excel: Lookups, Macros, Pivot Tables)
 <br>
-
 Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Risk Management
 <br>
-
 Soft Skills: Communication, Teamwork, Continuous Learning
 <br>
 
