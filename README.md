@@ -6,11 +6,7 @@ About Me
 <br>
 I'm a Data Scientist Trainee at Analytixlabs, Bengaluru, with a strong foundation in data manipulation, statistical analysis, and machine learning. My passion lies in extracting valuable insights from data to drive business growth and innovation. I am committed to continuously refining my analytical capabilities and contributing effectively to cross-functional teams.
 <br>
-
-
-
-
-
+<br>
 Technical Skills
 <br>
 Programming Languages: Python (Numpy, Pandas, Matplotlib, Seaborn, SciPy), SQL
