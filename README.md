@@ -34,9 +34,9 @@ Let's Connect
 <br>
 LinkedIn: www.linkedin.com/in/uttamkhot07
 <br>
-Twitter(X): @Uttamkhot10
+Twitter(X): https://x.com/Uttamkhot10?t=V42gAuykPpWXDg4pbXiEmg&s=03
 <br>
-GitHub: github.com/uttamk7
+GitHub: www.github.com/uttamk7
 <br>
 Email: uttamskhot108@gmail.com
 <br>
