@@ -32,8 +32,7 @@ VSM's BBA AND BCA COLLEGE NIPANI | BCA in Computer Science | 2023
 
 Let's Connect
 <br>
-LinkedIn: www.linkedin.com/in/uttamkhot07
-<br>
+
 Twitter(X): https://x.com/Uttamkhot10?t=V42gAuykPpWXDg4pbXiEmg&s=03
 <br>
 GitHub: www.github.com/uttamk7
