@@ -35,8 +35,6 @@ Let's Connect
 
 Twitter(X): https://x.com/Uttamkhot10?t=V42gAuykPpWXDg4pbXiEmg&s=03
 <br>
-GitHub: www.github.com/uttamk7
-<br>
 Email: uttamskhot108@gmail.com
 <br>
 <br>
